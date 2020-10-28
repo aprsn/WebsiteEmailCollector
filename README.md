@@ -7,6 +7,7 @@ Create a TXT file that includes the list of website names in the file for each l
 E.G.
 
 https://finage.co.uk
+
 https://blog.finage.co.uk
 
 
